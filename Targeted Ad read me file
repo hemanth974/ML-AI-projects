@@ -1,0 +1,10 @@
+If you were asked to work on targetted marketing ads on facebook.As an analyst work on customer behaviour by predicting which customer clicks on the advertisement or not would help to invest in productive time. Below are the features in the given data set.
+
+Name
+Email
+Country
+salary
+clicked
+OUTPUT (i.e. clicked) Expected :
+
+FYR : One in clicked column represents when ad is clicked and zero represents the otherwise scenario
