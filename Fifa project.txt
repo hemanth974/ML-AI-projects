@@ -1,0 +1,5 @@
+when given certain player characteristics to predict the type of player whether Attacker, midfielder,defender or Goal keeper
+
+OUTPUT (player classification by position) Expected :
+
+predicting the player classification whether attacker,defender, midfielder or Goalkeeper
